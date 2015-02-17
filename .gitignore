@@ -1,0 +1,7 @@
+*.txt
+*.zip
+*.RData
+*.Rhistory
+*.Rproj
+*.pper
+*/.Rproj.user/*
